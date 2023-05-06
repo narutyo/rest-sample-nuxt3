@@ -1,5 +1,5 @@
 <template>
   <div>
-    <NuxtWelcome />
+    <v-btn color="primary">Vuetify のボタン</v-btn>
   </div>
 </template>
